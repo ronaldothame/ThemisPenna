@@ -1,6 +1,9 @@
-# Themmis Penna
+# Themis Penna
+![ThemisPenna](https://imagizer.imageshack.com/img923/5296/2GRlk1.jpg) 
 ## Versão: 1.4.2
 ## Status do Projeto: ⚠️ Em Andamento
+
+
 
 ## Tópicos
 🔹 [Descrição do projeto](#descrição-do-projeto)
